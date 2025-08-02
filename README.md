@@ -1,2 +1,3 @@
-﻿This is a C repository in Github which contains files containing codes in C language. 
+﻿This is C repository in Github which contains files containing codes in C language. 
+
 
