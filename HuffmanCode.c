@@ -127,7 +127,7 @@ void printCodes(struct MinHeapNode* root, int arr[], int top) {
         printCodes(root->left, arr, top + 1);
     }
     if (root->right) {
-        arr[top] = 1;""
+        arr[top] = 1;
         printCodes(root->right, arr, top + 1);
     }
     if (isLeaf(root)) {
